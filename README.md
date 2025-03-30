@@ -29,19 +29,19 @@ To effectively convey technical information, choose visuals like bar charts for 
 Headings and subheadings significantly enhance technical document readability and organization by providing a clear structure, allowing readers to quickly scan and understand complex information, and highlighting key points. 
 
 ## 10. What are some best practices for creating effective headings and subheadings?
-Make your headings engaging
-Be creative in your subheadings
-Incorporate relevant keywords
-Keep subheadings descriptive
-Keep headings consistent
-Utilize formatting tags
-Keep it concise
-Use proper capitalization
-Consider the heading hierarchy
-Keep readers engaged and reading
-Maintain hierarchy
-Make headers interesting
-Space out headings
+Make your headings engaging,
+Be creative in your subheadings,
+Incorporate relevant keywords,
+Keep subheadings descriptive,
+Keep headings consistent,
+Utilize formatting tags,
+Keep it concise,
+Use proper capitalization,
+Consider the heading hierarchy,
+Keep readers engaged and reading,
+Maintain hierarchy,
+Make headers interesting,
+Space out headings and
 Use descriptive and concise words
 
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
